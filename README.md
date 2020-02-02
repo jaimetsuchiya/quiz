@@ -19,35 +19,35 @@ Oferecer uma ferramenta pedagógica formativa e avaliativa para promoção de de
 * Compartilhar resultado nas redes sociais
 	
 ## Professor
-### Sala
-#### Manutencao de Sala (Criar, alterar, ativar, desativar, adicionar alunos, remover alunos)
-#### Nivel da Sala
-#### Materia
-	
+### Cadastro de Salas (Criar, alterar, ativar, desativar, adicionar alunos, remover alunos)
+* Seleção da Instituição de Ensino
+* Descrição da Sala
+* Nivel da Sala
+* Materia
 	
 ### Partidas
-#### Criacao de Sala (Nome, Questionario(s) Associado(s), Numero de questoes, Numero Maximo de Participantes, Numero Minimo de Participantes, Agendamento de Sessao - Inicio e termino, )
-#### Monitoramento de salas (Salas Fechadas, Salas Abertas Aguardando Participantes, Salas Encerradas)
-#### Controle de Atividade da sala (Inicio do Jogo, Visualizacao dos Participantes)
-#### Visualizacao de Resultados em Salas Encerradas
-#### Exportar Resultados (pdf, csv)
-#### Necessario controle de matricula (sim ou nao)
-#### Matriculas associadas
-#### Permite pular questao para responder no final
-		
-### Materia (Tabela de Dominio CRUD)
-	
+* Criacao de Sala (Nome, Questionario(s) Associado(s), Numero de questoes, Numero Maximo de Participantes, Numero Minimo de Participantes, Agendamento de Sessao - Inicio e termino, )
+* Monitoramento de salas (Salas Fechadas, Salas Abertas Aguardando Participantes, Salas Encerradas)
+* Controle de Atividade da sala (Inicio do Jogo, Visualizacao dos Participantes)
+* Visualizacao de Resultados em Salas Encerradas
+* Exportar Resultados (pdf, csv)
+* Necessario controle de matricula (sim ou nao)
+* Matriculas associadas
+* Permite pular questao para responder no final
+
+### Materia
+
 ### Questionario
-#### Matéria Associada
-#### Nome
-#### Nivel
-#### Questoes
-##### Titulo
-##### Tags
-##### Tipo de Opcoes (Imagens, Texto, Vídeo)
-##### Resposta Correta
-##### Opcoes de Resposta: (Imagens, Texto, Vídeo)
-##### Pontos da Questão
+* Matéria Associada
+* Nome
+* Nivel
+* Questoes
+** Titulo
+** Tags
+* Tipo de Opcoes (Imagens, Texto, Vídeo)
+* Resposta Correta
+* Opcoes de Resposta: (Imagens, Texto, Vídeo)
+* Pontos da Questão
 ##### Tempo máximo (obs: caso a questão ou as opções baseiem-se em vídeo, o tempo máximo deve contemplar a soma da duração dos vídeos apresentados)
 
 	
