@@ -10,13 +10,13 @@ Oferecer uma ferramenta pedagógica formativa e avaliativa para promoção de de
 
 # Perfis disponíveis
 
-* Aluno
-** Login via rede social
-** Solicitar complemento com numero de matrícula e instituicao de ensino
-** Listar partidas disponiveis apos logon (historico de participacoes, partidas aguardando inicio) -
-** Listar premiacoes
-** Listar ranking por escola/matéria/global
-** Compartilhar resultado nas redes sociais
+## Aluno
+* Login via rede social
+* Solicitar complemento com numero de matrícula e instituicao de ensino
+* Listar partidas disponiveis apos logon (historico de participacoes, partidas aguardando inicio) -
+* Listar premiacoes
+* Listar ranking por escola/matéria/global
+* Compartilhar resultado nas redes sociais
 	
 ## Professor
 ### Sala
