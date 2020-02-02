@@ -2,11 +2,11 @@
 Oferecer uma ferramenta pedagógica formativa e avaliativa para promoção de desenvolvimento das habilidades do aluno de acordo com a proposta do professor.
 
 # Caraterísticas Técnicas
-## Angular
-## API AspNet .Core
-## Banco de Dados Relacional - mysql
-## Redis  (Controle de Sessao e Cache da Partida)
-## Multi Idiomas
+Angular
+API AspNet .Core
+Banco de Dados Relacional - mysql
+Redis  (Controle de Sessao e Cache da Partida)
+Multi Idiomas
 
 # Perfis disponíveis
 ## Aluno
