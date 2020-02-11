@@ -35,6 +35,8 @@ Oferecer uma ferramenta pedagógica formativa e avaliativa para promoção de de
 * Necessario controle de matricula (sim ou nao)
 * Matriculas associadas
 * Permite pular questao para responder no final
+* Tempo máximo da Partida
+* Tempo total da Partida
 
 ### Materia
 
